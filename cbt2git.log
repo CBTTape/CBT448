@@ -1,0 +1,12 @@
+2023-08-06 04:08:17.600796 - Initialized conversion of CBT448
+2023-08-06 04:08:17.670236 - Received CBT.V505.FILE448.PDS from FILE448.XMI 
+2023-08-06 04:08:17.672609 - Found $$NOTES.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/$$NOTES
+2023-08-06 04:08:17.673606 - Found @FILE448.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/@FILE448
+2023-08-06 04:08:17.674592 - Found DOC.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/DOC
+2023-08-06 04:08:17.675694 - Found DOCMACRO.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/DOCMACRO
+2023-08-06 04:08:17.676679 - Found EDIT.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/EDIT
+2023-08-06 04:08:17.677690 - Found ENTER.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/ENTER
+2023-08-06 04:08:17.678721 - Found EXIT.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/EXIT
+2023-08-06 04:08:17.679693 - Found FILL.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/FILL
+2023-08-06 04:08:17.680597 - Found REGISTER.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/REGISTER
+2023-08-06 04:08:17.681597 - Found SETDATE.txt (text/plain) in CBT.V505.FILE448.PDS, moved to PDS/SETDATE
